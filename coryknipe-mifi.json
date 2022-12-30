@@ -1,0 +1,141 @@
+{
+    "response_status": {
+        "status_code": 2000,
+        "status": "success"
+    },
+    "asset": {
+        "total_cost": "0.00",
+        "org_serial_number": "",
+        "device_type": null,
+        "type": {
+            "name": "Asset",
+            "id": "1"
+        },
+        "sys_name": null,
+        "id": "89104",
+        "state": {
+            "is_scan_required": true,
+            "name": "In Use",
+            "id": "2",
+            "is_ownership_mandatory": true
+        },
+        "barcode": null,
+        "product_depreciation": null,
+        "operational_cost": null,
+        "loan_end": null,
+        "asset_tag": "",
+        "part_no": null,
+        "purchase_order": null,
+        "network_adapters": [],
+        "name": "Cory Knipe - MiFi 4163568459",
+        "udf_fields": {
+            "udf_sline_301": "",
+            "udf_sline_4": "013080000329505",
+            "udf_sline_5": "89302720403035553519",
+            "udf_sline_6": "4163568459",
+            "udf_sline_3": ""
+        },
+        "is_depreciation_configured": false,
+        "region": null,
+        "is_depreciation_calculated": false,
+        "attachments": [],
+        "is_asset_association_possible": true,
+        "description": "",
+        "manufacturer": null,
+        "acquisition_date": null,
+        "ci_default_fields": {
+            "udf_pickref_1": null
+        },
+        "current_cost": null,
+        "vendor": null,
+        "purchase_cost": "0.00",
+        "department": {
+            "site": null,
+            "name": "Inspection",
+            "id": "13"
+        },
+        "loan_start": null,
+        "depreciation": null,
+        "costs": [
+            {
+                "date": {
+                    "display_value": "Aug 3, 2022",
+                    "value": "1659552791443"
+                },
+                "cost_factor": {
+                    "name": "Purchase Cost",
+                    "id": "1"
+                },
+                "amount": "0.00",
+                "description": null,
+                "id": "4559"
+            }
+        ],
+        "ci_citype_901_fields": {},
+        "product": {
+            "part_no": null,
+            "product_type": {
+                "id": "901"
+            },
+            "name": "Rogers",
+            "computer_group": null,
+            "id": "4503",
+            "type": {
+                "id": "1"
+            },
+            "category": {
+                "id": "1"
+            },
+            "manufacturer": null
+        },
+        "asset_depreciation": null,
+        "ci": {
+            "ci_type": {
+                "id": "901"
+            },
+            "name": "Cory Knipe - MiFi 4163568459",
+            "id": "9081"
+        },
+        "expiry_date": null,
+        "used_by_asset": null,
+        "sys_description": null,
+        "warranty_expiry": null,
+        "sys_uptime": null,
+        "site": null,
+        "product_type": {
+            "internal_name": null,
+            "name": "MIFI Devices",
+            "id": "901",
+            "type": {
+                "name": "Asset",
+                "id": "1"
+            }
+        },
+        "location": "",
+        "is_loaned": false,
+        "is_loanable": false,
+        "category": {
+            "name": "Non-IT",
+            "id": "1"
+        },
+        "user": {
+            "email_id": "cknipe@tssa.org",
+            "phone": null,
+            "name": "Cory Knipe",
+            "mobile": "+1 416-271-3889",
+            "profile_pic": {
+                "content-url": "/images/default-profile-pic2.svg",
+                "name": "default-profile-pic2.svg"
+            },
+            "is_vipuser": false,
+            "id": "45",
+            "department": {
+                "site": null,
+                "name": "Inspection",
+                "id": 13
+            }
+        },
+        "purchase_order_no": null,
+        "sys_location": null
+    }
+}

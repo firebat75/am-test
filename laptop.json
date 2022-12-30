@@ -1,0 +1,106 @@
+[
+    {
+        "total_cost": "0.00",
+        "ip_addresses": "10.3.225.76,172.20.10.2, fe80::31:dabe:2704:85b5",
+        "primary_ip": null,
+        "org_serial_number": null,
+        "description": "-",
+        "type": {
+            "name": "Asset",
+            "id": "1"
+        },
+        "manufacturer": "Microsoft",
+        "acquisition_date": null,
+        "ci_default_fields": {
+            "udf_pickref_1": null
+        },
+        "current_cost": null,
+        "vendor": null,
+        "id": "1",
+        "purchase_cost": null,
+        "state": {
+            "is_scan_required": true,
+            "name": "In Use",
+            "id": "2",
+            "is_ownership_mandatory": true
+        },
+        "department": {
+            "site": null,
+            "name": "Inspection",
+            "id": "13"
+        },
+        "barcode": null,
+        "product_depreciation": null,
+        "depreciation": null,
+        "operational_cost": null,
+        "loan_end": null,
+        "asset_tag": null,
+        "product": {
+            "part_no": null,
+            "product_type": {
+                "id": "1"
+            },
+            "name": "Surface Pro 7",
+            "computer_group": {
+                "id": "1"
+            },
+            "id": "2",
+            "type": {
+                "id": "1"
+            },
+            "category": {
+                "id": "2"
+            },
+            "manufacturer": "Microsoft"
+        },
+        "expiry_date": null,
+        "used_by_asset": null,
+        "sys_description": null,
+        "warranty_expiry": null,
+        "part_no": null,
+        "site": {
+            "name": "TSSA",
+            "id": "3"
+        },
+        "product_type": {
+            "internal_name": "Workstation",
+            "name": "Workstation",
+            "id": "1",
+            "type": {
+                "id": "1"
+            }
+        },
+        "name": "tab-5944y-fs.tssa.org",
+        "udf_fields": {
+            "udf_sline_301": null,
+            "udf_sline_4": null,
+            "udf_sline_5": null,
+            "udf_sline_6": null,
+            "udf_sline_3": null
+        },
+        "discovered_serial_number": null,
+        "location": "-",
+        "is_loaned": false,
+        "region": {
+            "name": "Canada",
+            "id": "3"
+        },
+        "user": {
+            "email_id": "arooprai@tssa.org",
+            "phone": null,
+            "name": "Angad Rooprai",
+            "mobile": "+1 647-281-5143",
+            "profile_pic": {
+                "content-url": "/images/default-profile-pic2.svg",
+                "name": "default-profile-pic2.svg"
+            },
+            "is_vipuser": false,
+            "id": "841",
+            "department": {
+                "site": null,
+                "name": "Inspection",
+                "id": 13
+            }
+        }
+    }
+]

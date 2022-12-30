@@ -1,0 +1,100 @@
+[
+    {
+        "total_cost": "0.00",
+        "ip_addresses": "",
+        "primary_ip": null,
+        "org_serial_number": "FK1D9GZDN72J",
+        "description": "",
+        "type": {
+            "name": "Asset",
+            "id": "1"
+        },
+        "manufacturer": "Apple",
+        "acquisition_date": null,
+        "ci_default_fields": {
+            "udf_pickref_1": null
+        },
+        "current_cost": null,
+        "vendor": null,
+        "id": "1694",
+        "purchase_cost": "0.00",
+        "state": {
+            "is_scan_required": true,
+            "name": "In Use",
+            "id": "2",
+            "is_ownership_mandatory": true
+        },
+        "department": {
+            "site": null,
+            "name": "Inspection",
+            "id": "13"
+        },
+        "barcode": null,
+        "product_depreciation": null,
+        "depreciation": null,
+        "operational_cost": null,
+        "loan_end": null,
+        "asset_tag": "",
+        "product": {
+            "part_no": null,
+            "product_type": {
+                "id": "14"
+            },
+            "name": "iPhone 11",
+            "computer_group": null,
+            "id": "15",
+            "type": {
+                "id": "1"
+            },
+            "category": {
+                "id": "2"
+            },
+            "manufacturer": "Apple"
+        },
+        "expiry_date": null,
+        "used_by_asset": null,
+        "sys_description": null,
+        "warranty_expiry": null,
+        "is_personal": false,
+        "part_no": null,
+        "site": null,
+        "product_type": {
+            "internal_name": "Smart Phone",
+            "name": "iPhone",
+            "id": "14",
+            "type": {
+                "name": "Asset",
+                "id": "1"
+            }
+        },
+        "name": "Angad Rooprai iPhone",
+        "udf_fields": {
+            "udf_sline_301": "",
+            "udf_sline_4": "356573080287671",
+            "udf_sline_5": "",
+            "udf_sline_6": "16472815143",
+            "udf_sline_3": ""
+        },
+        "discovered_serial_number": null,
+        "location": "-",
+        "is_loaned": false,
+        "region": null,
+        "user": {
+            "email_id": "arooprai@tssa.org",
+            "phone": null,
+            "name": "Angad Rooprai",
+            "mobile": "+1 647-281-5143",
+            "profile_pic": {
+                "content-url": "/images/default-profile-pic2.svg",
+                "name": "default-profile-pic2.svg"
+            },
+            "is_vipuser": false,
+            "id": "841",
+            "department": {
+                "site": null,
+                "name": "Inspection",
+                "id": 13
+            }
+        }
+    }
+]
